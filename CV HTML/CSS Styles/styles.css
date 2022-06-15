@@ -1,0 +1,62 @@
+body {
+  background-color: #ECB390;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  top: 12rem;
+}
+
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  letter-spacing: 0.01rem;
+}
+
+.education {
+  letter-spacing: 0.01rem;
+}
+
+.mountain-picture {
+  width: 40%;
+  margin-left: 400px;
+}
+
+
+.qualifications {
+  margin-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 1.563rem;
+}
+
+.top-container {
+  align-content: center;
+  background-color: #34B3F1;
+  margin-top: 0;
+}
+
+.work-experience {
+  letter-spacing: 0.01rem;
+}
+
+
+
+
+
+
+.title-header {
+  text-align: center;
+  color: #371B58;
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Sacramento', cursive;
+}
